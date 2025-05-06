@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/mini-course-platform/static/js/main.54e13119.js",
+    "main.js": "/mini-course-platform/static/js/main.787708d2.js",
     "index.html": "/mini-course-platform/index.html",
-    "main.54e13119.js.map": "/mini-course-platform/static/js/main.54e13119.js.map"
+    "main.787708d2.js.map": "/mini-course-platform/static/js/main.787708d2.js.map"
   },
   "entrypoints": [
-    "static/js/main.54e13119.js"
+    "static/js/main.787708d2.js"
   ]
 }
